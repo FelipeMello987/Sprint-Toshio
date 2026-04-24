@@ -7,8 +7,8 @@ int main() {
     char vip[10];
 
     printf("========== SIMULADOR DE RECARGA ==========\n");
-    printf("Preco da recarga é R$0,40 para cada 1%% de recarga\n");
-    printf("Voce é cliente premium para ganhar 10%% de desconto?[S/N] ");
+    printf("Preco da recarga e R$0,40 para cada 1%% de recarga\n");
+    printf("Voce e cliente premium para ganhar 10%% de desconto?[S/N] ");
     scanf("%s", vip);
     printf("Qual a carga atual em porcentagem: ");
     scanf("%d", &energia);
@@ -37,7 +37,6 @@ int main() {
         minuto = minuto-60;
     }
 
-    printf("DEBUG: vip = %s\n", vip);
     if (strcmp(vip, "s") == 0) {
         custo = custo * 0.9;
     }   
