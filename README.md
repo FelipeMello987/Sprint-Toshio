@@ -19,3 +19,11 @@ explicação do codigo:
 -analisando se o cliente é vip ou não para aplicar o desconto
 
 -exibindo relatorio simples que mostra o tempo gasto até o fim do carregamento, energia que foi recarregada e o valor a se pagar
+
+NOME: Felipe Mello Ramalho Cagnin - RM: 569237
+
+NOME: Gabriel Beu Volpato Correa de Assis - RM: 563008
+
+NOME: Matheus A Patelli - RM: 567261
+
+NOME: Jhon Cutile Titirico - RM: 571976
